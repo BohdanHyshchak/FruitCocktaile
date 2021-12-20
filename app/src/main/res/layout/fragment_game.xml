@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="20dp"
-    tools:context="com.example.myapplication.fragments.GameFragment">
+    android:background="@drawable/game_back"
+    tools:context="com.example.fruitcoctaile.fragments.GameFragment">
 
     <FrameLayout
         android:id="@+id/imageContainer"
@@ -59,10 +60,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Health: 3"
-        android:textColor="@color/black"
+        android:fontFamily="@font/finger_paint"
+        android:textColor="@color/red"
         android:textSize="30sp"
-        android:layout_marginBottom="50dp"
-        app:layout_constraintBottom_toTopOf="@+id/adView"
+        android:layout_marginBottom="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
     <TextView
@@ -70,21 +72,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Score: 0"
+        android:fontFamily="@font/finger_paint"
         android:textColor="@color/black"
         android:textSize="30sp"
-        android:layout_marginBottom="50dp"
-        app:layout_constraintBottom_toTopOf="@+id/adView"
-        app:layout_constraintEnd_toEndOf="parent" />
-
-
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        app:adSize="BANNER"
-        app:adUnitId="@string/advertising_string"
+        android:layout_marginBottom="80dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

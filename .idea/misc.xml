@@ -3,13 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/bomb.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/btn_menu_back.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/btn_menu_red.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/btn_menu_yellow.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/item_blue.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/item_red.xml" value="0.17685185185185184" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/drawable/transparent.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/layout/fragment_game.xml" value="0.264" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/layout/fragment_game_over.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/ALEX/Fruits coctail/app/src/main/res/layout/fragment_menu.xml" value="0.264" />
         <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/bomb.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/btn_menu_back.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2212962962962963" />
         <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/ic_pak004_boom.xml" value="0.2212962962962963" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/item_blue.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/item_red.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/drawable/transparent.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/alfa_slab_one.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/berkshire_swash.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/finger_paint.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/henny_penny.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/menu_font.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/font/racing_sans_one.xml" value="0.21203703703703702" />
         <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/activity_main.xml" value="0.16893115942028986" />
-        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/fragment_game.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/fragment_game.xml" value="0.264" />
         <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/fragment_game_over.xml" value="0.16893115942028986" />
-        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/fragment_menu.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/PEKA/AndroidStudioProjects/TraffBaza/JokerUp/app/src/main/res/layout/fragment_menu.xml" value="0.4" />
       </map>
     </option>
   </component>
